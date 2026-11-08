@@ -1,0 +1,30 @@
+OCHILOV AKHMADJON
+Computer Engineering Student | Aspiring AI Engineer / Data Scientist
+Uzbekistan
+
+PROFILE
+Computer Engineering student from Uzbekistan, building a foundation in Python,
+data analysis, machine learning, and web development. Interested in learning
+how intelligent systems work and applying new ideas through practical projects.
+
+SKILLS
+Python, NumPy, Pandas, SQL, NoSQL, Machine Learning, HTML
+
+PROJECTS
+Test Main 2
+Coursework repository on GitHub.
+https://github.com/ahmad02072006/test-main-2
+
+Python Projects
+A collection of Python projects and practical exercises.
+https://github.com/ahmad02072006/Python-Projects
+
+EDUCATION
+Computer Engineering studies — in progress
+
+EXPERIENCE
+Coursework and personal projects
+
+CONTACT
+ochilovaxmadjon298@gmail.com
+https://github.com/ahmad02072006
